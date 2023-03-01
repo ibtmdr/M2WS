@@ -1,4 +1,4 @@
-package fr.m2i.m2ws.calcule;
+package fr.m2i.m2ws.calculatrice;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
